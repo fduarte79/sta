@@ -27,11 +27,11 @@
 **Aleatória**: os elementos da populaço são escolhidos de tal forma que cada um tenha igual chance de seleção. Alguns métodos são: utilização de tabelas ou algoritmos de números aleatórios;  
 **Estratificada**: divide-se a população em estratos (subpopulação) que compartilham das mesmas características e logo após, é extraído uma amostra de cada estrato;  
 **Sistemática**: é escolhido um ponto de partida e são selecionados até um valor (25º, 50º, 100º) elemento da população;  
-**Conglomerado**: divide-se a área populacional em seções e logo após são escolhidas seções epor fim todos os elementos das seções escolhidas;
+**Conglomerado**: divide-se a área populacional em seções e logo após são escolhidas seções epor fim todos os elementos das seções escolhidas;  
 **Meta-análise**: técnica de estudo que basicamente, combina os resultados do estudo em outro. Possui a vantagem de permitir que amostras menores sejam combinadas em uma amostra grande porém, corre-se o risco de se limitar ou se os estudo básicos não foram bons (*garbage in, garbage out*);  
-**Conveniência**: utiliza dados já disponíveis;
-
-## Erros
+**Conveniência**: utiliza dados já disponíveis;  
+  
+## Erros  
 **Erro amostral**: é a diferença entre um resultado amostral e o verdadeiro resultado populacional;  
 **Erro não-amostral**: são dados amostrais que foram coletados, registrados, ou analisados de forma incorreta.  
 
