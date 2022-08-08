@@ -8,8 +8,10 @@
 **(Uma) estatística**: é uma medida numérica que descreve uma característica.  
 
 ## Natureza dos dados  
-**Quantitativo discreto**: conjunto finito de valores numéricos. Exemplo: contagens de unidades.  
-**Quantitativo contínuo**: número infinito de valores que podem ser associados a pontos em uma escala contínua. Exemplo: mensuração da temperatura.  
+**Qualitativos categóticos nominais**: pode ser classificada em categoria não numérica. Exemplos: sexo, raça, etc  
+**Qualitativos categóricos ordinais**: pode ser classificada em diferentes níveis. Exemplo: urgências, nível de consumidor, (baixa, média, alta) 
+**Quantitativo numérico discreto**: conjunto finito de valores numéricos. Exemplo: contagens de unidades.  
+**Quantitativo numérico contínuo**: número infinito de valores que podem ser associados a pontos em uma escala contínua. Exemplo: mensuração da temperatura.  
 
 ## Níveis de mensuração  
 **Nível nominal de mensuração**: dados que constituem apenas em nomes, rótulos ou categorias. Exemplo: cpf's.  
