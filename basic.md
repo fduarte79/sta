@@ -15,6 +15,6 @@
 
 ## Níveis de mensuração  
 **Nível nominal de mensuração**: dados que constituem apenas em nomes, rótulos ou categorias. Exemplo: cpf's.  
-**Nível ordinal de mensuração**: dados que podem ser dispostor em alguma ordem, mas as diferenças entre os valores dos dados não têm sentido. Exemplo: listar nomes pela ordem alfabética
-**Nível intervalado de mensuração**: os dados podem ser comparados mas é dífícl ter a magnitude, uma vez que o ponto de início é relativo. Por exemplo: a temperatura 0 ºC é uma temperatura relativa uma vez que na verdade existe energia térmica e o 0º C está relacionado mais à um estado físico e não energia térmica de fato.    
-**Nível intervalar de mensuração**: análogo ao ordinal, com a adição de que é possível mensurar diferenças. Por exemplo: diferente do anterior, este sim faz sentido comparar diferenças. Exemplo: ter 0 litros de água e ter de fato 3 litros de água
+**Nível ordinal de mensuração**: dados que podem ser dispostor em alguma ordem, mas as diferenças entre os valores dos dados não têm sentido. Exemplo: listar nomes pela ordem alfabética.  
+**Nível intervalado de mensuração**: os dados podem ser comparados mas é dífícl ter a magnitude, uma vez que o ponto de início é relativo. Por exemplo: a temperatura 0 ºC é uma temperatura relativa uma vez que na verdade existe energia térmica e o 0º C está relacionado mais à um estado físico e não energia térmica de fato.  
+**Nível intervalar de mensuração**: análogo ao ordinal, com a adição de que é possível mensurar diferenças. Por exemplo: diferente do anterior, este sim faz sentido comparar diferenças. Exemplo: ter 0 litros de água e ter de fato 3 litros de água.  
