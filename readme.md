@@ -14,5 +14,6 @@
 ## Livros
 [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
 
-## Desafios
-[Titanic - Kaggle](https://www.kaggle.com/c/titanic)
+## Desafios  
+[Titanic - Kaggle](https://www.kaggle.com/c/titanic)  
+[Getting Started](https://www.kaggle.com/getting-started/78482)  
