@@ -39,11 +39,11 @@
 Conclusões a partir de pequenas amostras;  
 Muitas casas decimais não implica em um censo preciso;  
 Estimativas por suposições, palpites, truncamentos;  
-Porcentagens disrtcidas;  
+Porcentagens distorcidas;  
 Cifras paciais ou incompletas;  
 Distorções deliberadas;  
 Perguntas tendenciosas;  
 Gráficos enganosos;  
 Pictográficos;  
-Pressáo;  
+Pressão;  
 Más amostras;  
