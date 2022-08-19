@@ -1,4 +1,5 @@
 + [Introdução, conceitos iniciais, básico](basic/basic.md)
++ [Descrição, exploração, e comparação de dados](eda/eda.md)
 
 # Links
 
