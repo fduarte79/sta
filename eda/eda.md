@@ -1,6 +1,4 @@
-# Tabelas de Frequência
-
-## Introdução 
+# Introdução 
 **Objetivo da pesquisa**  
 + Específico: recall de carros por defeito em uma determinada peça  
 + Explorar: efeitos  do aumento de temperatura sobre o aquecimento global  
@@ -13,6 +11,8 @@
 + a natureza ou como os dados sõ distribuídos;  
 + um valor representativo (média, mediana);
 + medida de dispersão ou variância;
+
+## Tabelas de frequência  
 
 **Carga axial de latas de 0,0278 cm**  
 |   |   |   |   |   |   |   |   |   |   |  
