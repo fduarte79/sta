@@ -70,3 +70,15 @@ LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5
 + determinar a amplitude de classes, dividindo a amplitude pelo número de classes;
 + escolha como liite inferior da primeira classe, o menor valor observado;
 + some a amplitude da classe ao ponto de partida, obtendo o segundo limite inferior da classe;
++ relacione  os limites inferiores de classes em uma coluna e os limites superiores em outra;
++ represente cada observação por um pequeno traço na respectiva classe. Os traços facilitarão a contabilização das frequências;  
+
+#### Exemplo baseado na tabela de carga axial de latas de 0,0278 cm
+Passo 1: determinando o número de classes: 10;  
+Passo 2: 297 - 200 = 97. Truncando p cima, chegamos a 100. 100 (amplitude) / 10 = 10 classes  ;  
+Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;  
+Passo 4: adicionar a amplitude da classe (10) no limite inferior;  
+Passo 5: limite inferior + amplitude: 210
+
+#### Observação
+As tabelas de frequências são útil pois tornam os dados mais intelegíveis porém, perde-se a precisão dos dados, uma vez que não é possível reconstruir os dados originais a partir da tabela de frequênias
