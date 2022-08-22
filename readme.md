@@ -3,7 +3,7 @@ Conceitos básicos, natureza dos dados, níveis de mensuração, amostragens, et
 
 # [Introdução](intro.md)
 
-# [Análise Exploratória de Dados](aed/aed.md)
+# [Análise Exploratória de Dados](eda/eda.md)
 + [Tabelas de frequências](basic/tabelas_frequencias.md) 
 
 # [Links](links.md)
