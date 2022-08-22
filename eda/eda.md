@@ -1,6 +1,7 @@
 # Tabelas de Frequência
 
-**Objetivos**:  
+## Introdução 
+**Objetivo da pesquisa**  
 + Específico: recall de carros por defeito em uma determinada peça  
 + Explorar: efeitos  do aumento de temperatura sobre o aquecimento global  
 
@@ -8,6 +9,10 @@
 + Estatística descritiva: resume/descreve características de um conjunto de dados
 + Inferência estatística: quando utilizado dados amostrais para fazer inferê
 
+**Características importantes dos dados**  
++ a natureza ou como os dados sõ distribuídos;  
++ um valor representativo (média, mediana);
++ medida de dispersão ou variância;
 
 **Carga axial de latas de 0,0278 cm**  
 |   |   |   |   |   |   |   |   |   |   |  
@@ -30,3 +35,4 @@
 |277|285|293|248|278|285|292|282|287|277|  
 |266|268|273|270|256|297|280|256|262|268|   
 |262|293|290|274|292|   |   |   |   |   |  
+
