@@ -1,7 +1,15 @@
-# Descrição, exploração e comparação
+# Tabelas de Frequência
 
-## Tabelas de Frequência
+**Objetivos**:  
++ Específico: recall de carros por defeito em uma determinada peça  
++ Explorar: efeitos  do aumento de temperatura sobre o aquecimento global  
 
+**Objetivos da estatística**:
++ Estatística descritiva: resume/descreve características de um conjunto de dados
++ Inferência estatística: quando utilizado dados amostrais para fazer inferê
+
+
+**Carga axial de latas de 0,0278 cm**  
 |   |   |   |   |   |   |   |   |   |   |  
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
 |270|273|258|204|254|228|282|278|201|264|  
