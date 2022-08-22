@@ -5,16 +5,14 @@
 
 **Objetivos da estatística**:
 + Estatística descritiva: resume/descreve características de um conjunto de dados
-+ Inferência estatística: quando utilizado dados amostrais para fazer inferê
++ Inferência estatística: quando utilizado dados amostrais para fazer inferências
 
 **Características importantes dos dados**  
 + a natureza ou como os dados sõ distribuídos;  
 + um valor representativo (média, mediana);
 + medida de dispersão ou variância;
 
-## Tabelas de frequência  
-
-**Carga axial de latas de 0,0278 cm**  
+**Tabela de carga axial de latas de 0,0278 cm**  
 |   |   |   |   |   |   |   |   |   |   |  
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
 |270|273|258|204|254|228|282|278|201|264|  
@@ -36,3 +34,17 @@
 |266|268|273|270|256|297|280|256|262|268|   
 |262|293|290|274|292|   |   |   |   |   |  
 
+## Tabelas de frequência  
+
+Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*frequências*) da respectiva classe.  
+
+**Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
+**Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 210, 220, 230, ...  
+**Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5 
+
+|      |  LI  |  LS  |  
+|:----:|:----:|:----:|  
+| cl1  | 200  |*209* |  
+| cl2  |*210* | 2019 |
+
+LI_CL2 - LS_CL1 = (210 - 2019)/2 = 0,5  
