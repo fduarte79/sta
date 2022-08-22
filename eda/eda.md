@@ -58,6 +58,6 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 |      |  LI  |  LS  |  
 |:----:|:----:|:----:|  
 | cl1  | 200  |*209* |  
-| cl2  |*210* | 2019 |
+| cl2  |*210* | 219  |
 
 LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5  
