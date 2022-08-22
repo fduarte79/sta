@@ -38,8 +38,21 @@
 
 Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*frequências*) da respectiva classe.  
 
+| Carga axial | Frequência |  
+|:-----------:|:----------:|  
+|  200 ~ 209  | 9          |  
+|  210 ~ 219  | 3          |  
+|  220 ~ 229  | 5          |  
+|  230 ~ 239  | 4          |  
+|  240 ~ 249  | 4          |  
+|  250 ~ 259  | 14         |  
+|  260 ~ 269  | 32         |  
+|  270 ~ 279  | 52         |  
+|  280 ~ 289  | 38         |  
+|  290 ~ 299  | 14         |  
+
 **Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
-**Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 210, 220, 230, ...  
+**Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
 **Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5 
 
 |      |  LI  |  LS  |  
@@ -47,4 +60,4 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 | cl1  | 200  |*209* |  
 | cl2  |*210* | 2019 |
 
-LI_CL2 - LS_CL1 = (210 - 2019)/2 = 0,5  
+LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5  
