@@ -54,10 +54,14 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 **Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
 **Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
 **Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5 
-
 |      |  LI  |  LS  |  
 |:----:|:----:|:----:|  
 | cl1  | 200  |*209* |  
 | cl2  |*210* | 219  |
 
 LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5  
+**Marcas de classe**: são os pontos médio das classes, o seu valor é obtido somando-se os limites inferiores e superiores, e dividindo por dois.
+**Amplitude de classe**: é a diferença entre dois limites (superior ou inferior) entre duas classes consecutivas. Ex: a amplitude das classes é 10.  
+*Obs*:  devemos ter o cuidado de evitar o erro de tomar como amplitude de classe, a diferença entre os limites inferiores e superiores.
+
+## Passos para criar uma tabela de frequência
