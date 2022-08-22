@@ -1,6 +1,33 @@
 # Tabela de frequências
+Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*frequências*) da respectiva classe.  
 
-**Tabela de carga axial de latas de 0,0278 cm**  
+**Amplitude**: é a diferença entre o maior valor observado e o menor valor observado. O valor deverá sempre ser truncado para um valor superior (nunca inferior garantido assim), que todos os valores estejam inclusos  
+**Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
+**Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
+**Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5  
+**Marcas de classe**: são os pontos médio das classes, o seu valor é obtido somando-se os limites inferiores e superiores, e dividindo por dois.  
+**Amplitude de classe**: é a diferença entre dois limites (superior ou inferior) entre duas classes consecutivas. Ex: a amplitude das classes é 10.  
+*Obs*:  devemos ter o cuidado de evitar o erro de tomar como amplitude de classe, a diferença entre os limites inferiores e superiores.  
+
+## Regras para a construção de  tabelas de frequências  
++ as classes devem ser mutuamente excludentes ou seja, cada valor deve pertencer à uma só classe;
++ todas as classes deverão ser incluídas, inclusive as que possuem zero frequência;
++ procurar utilizar a mesma frequência para todas as classes;
++ escolher números convenientes para o número de classes;
++ utilizar no mínimo 5 e no máximo 20 classes;
++ a soma das frequências de todas as classes devem ser iguais ao número de observações originais.
+
++ *Observação*: as tabelas de frequências são útil pois tornam os dados mais intelegíveis porém, perde-se a precisão dos dados, uma vez que não é possível reconstruir os dados originais a partir da tabela de frequências.
+
+## Passos para criar uma tabela de frequência
++ decidir o número de classes, recomenda-se no mínimo 5 e no máximo 20;
++ determinar a amplitude de classes, dividindo a amplitude pelo número de classes;
++ escolha como liite inferior da primeira classe, o menor valor observado;
++ some a amplitude da classe ao ponto de partida, obtendo o segundo limite inferior da classe;
++ relacione  os limites inferiores de classes em uma coluna e os limites superiores em outra;
++ represente cada observação por um pequeno traço na respectiva classe. Os traços facilitarão a contabilização das frequências;  
+
+*Tabela de carga axial de latas de 0,0278 cm*  
 |   |   |   |   |   |   |   |   |   |   |  
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
 |270|273|258|204|254|228|282|278|201|264|  
@@ -22,10 +49,7 @@
 |266|268|273|270|256|297|280|256|262|268|   
 |262|293|290|274|292|   |   |   |   |   |  
 
-## Tabelas de frequência  
-
-Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*frequências*) da respectiva classe.  
-
+*Tabela de frequência*
 | Carga axial | Frequência |  
 |:-----------:|:----------:|  
 |  200 ~ 209  | 9          |  
@@ -39,44 +63,9 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 |  280 ~ 289  | 38         |  
 |  290 ~ 299  | 14         |  
 
-### Conceitos
-
-**Amplitude**: é a diferença entre o maior valor observado e o menor valor observado. O valor deverá sempre ser cruncado para um valor superperior, nunca inferior garantido assim, que todos os valores estejam inclusos
-**Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
-**Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
-**Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5 
-|      |  LI  |  LS  |  
-|:----:|:----:|:----:|  
-| cl1  | 200  |*209* |  
-| cl2  |*210* | 219  |
-
-LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5  
-**Marcas de classe**: são os pontos médio das classes, o seu valor é obtido somando-se os limites inferiores e superiores, e dividindo por dois.
-**Amplitude de classe**: é a diferença entre dois limites (superior ou inferior) entre duas classes consecutivas. Ex: a amplitude das classes é 10.  
-*Obs*:  devemos ter o cuidado de evitar o erro de tomar como amplitude de classe, a diferença entre os limites inferiores e superiores.
-
-## Passos para criar uma tabela de frequência
-+ decidir o número de classes, recomenda-se no mínimo 5 e no máximo 20;
-+ determinar a amplitude de classes, dividindo a amplitude pelo número de classes;
-+ escolha como liite inferior da primeira classe, o menor valor observado;
-+ some a amplitude da classe ao ponto de partida, obtendo o segundo limite inferior da classe;
-+ relacione  os limites inferiores de classes em uma coluna e os limites superiores em outra;
-+ represente cada observação por um pequeno traço na respectiva classe. Os traços facilitarão a contabilização das frequências;  
-
 ## Exemplo baseado na tabela de carga axial de latas de 0,0278 cm
 Passo 1: determinando o número de classes: 10;  
 Passo 2: 297 - 200 = 97. Truncando p cima, chegamos a 100. 100 (amplitude) / 10 = 10 classes  ;  
 Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;  
 Passo 4: adicionar a amplitude da classe (10) no limite inferior;  
 Passo 5: limite inferior + amplitude: 210
-
-## Regras para a construção de  tabelas de frequências  
-+ as classes devem ser mutuamente excludentes ou seja, cada valor deve pertencer à uma só classe;
-+ todas as classes deverão ser incluídas, inclusive as que possuem zero frequência;  
-+ procurar utilizar a mesma frequência para todas as classes;
-+ escolher números convenientes para o número de classes;
-+ utilizar no mínimo 5 e no máximo 20 classes;
-+ a soma das frequências de todas as classes devem ser iguais ao número de observações originais.
-
-## Observação
-As tabelas de frequências são útil pois tornam os dados mais intelegíveis porém, perde-se a precisão dos dados, uma vez que não é possível reconstruir os dados originais a partir da tabela de frequências.
