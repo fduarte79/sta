@@ -12,8 +12,8 @@
 + um valor representativo (média, mediana);
 + medida de dispersão ou variância;
 
-+ [Introdução, conceitos iniciais, básico](basic/tabelas_frequencias.md) 
-+ [Descrição, exploração, e comparação de dados](eda/eda.md)
+## Tabelas
++ [Tabelas de frequências](basic/tabelas_frequencias.md) 
 
 # Links
 
