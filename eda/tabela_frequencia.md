@@ -1,16 +1,4 @@
-# Introdução 
-**Objetivo da pesquisa**  
-+ Específico: recall de carros por defeito em uma determinada peça  
-+ Explorar: efeitos  do aumento de temperatura sobre o aquecimento global  
-
-**Objetivos da estatística**:
-+ Estatística descritiva: resume/descreve características de um conjunto de dados
-+ Inferência estatística: quando utilizado dados amostrais para fazer inferências
-
-**Características importantes dos dados**  
-+ a natureza ou como os dados sõ distribuídos;  
-+ um valor representativo (média, mediana);
-+ medida de dispersão ou variância;
+# Tabela de frequências
 
 **Tabela de carga axial de latas de 0,0278 cm**  
 |   |   |   |   |   |   |   |   |   |   |  
@@ -51,6 +39,8 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 |  280 ~ 289  | 38         |  
 |  290 ~ 299  | 14         |  
 
+### Conceitos
+
 **Amplitude**: é a diferença entre o maior valor observado e o menor valor observado. O valor deverá sempre ser cruncado para um valor superperior, nunca inferior garantido assim, que todos os valores estejam inclusos
 **Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
 **Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
@@ -80,5 +70,13 @@ Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;
 Passo 4: adicionar a amplitude da classe (10) no limite inferior;  
 Passo 5: limite inferior + amplitude: 210
 
+## Regras para a construção de  tabelas de frequências  
++ as classes devem ser mutuamente excludentes ou seja, cada valor deve pertencer à uma só classe;
++ todas as classes deverão ser incluídas, inclusive as que possuem zero frequência;  
++ procurar utilizar a mesma frequência para todas as classes;
++ escolher números convenientes para o número de classes;
++ utilizar no mínimo 5 e no máximo 20 classes;
++ a soma das frequências de todas as classes devem ser iguais ao número de observações originais.
+
 ## Observação
-As tabelas de frequências são útil pois tornam os dados mais intelegíveis porém, perde-se a precisão dos dados, uma vez que não é possível reconstruir os dados originais a partir da tabela de frequênias
+As tabelas de frequências são útil pois tornam os dados mais intelegíveis porém, perde-se a precisão dos dados, uma vez que não é possível reconstruir os dados originais a partir da tabela de frequências.
