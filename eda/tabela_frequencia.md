@@ -51,6 +51,7 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 |  280 ~ 289  | 38         |  
 |  290 ~ 299  | 14         |  
 
+**Amplitude**: é a diferença entre o maior valor observado e o menor valor observado. O valor deverá sempre ser cruncado para um valor superperior, nunca inferior garantido assim, que todos os valores estejam inclusos
 **Limites inferiores de classes**: são os menores valores que pertencem a classe. Ex: 200, 220, 230, ...  
 **Limites superiores de classes**: são os maiores valores que pertencem a classe. Ex: 209, 229, 239, ...  
 **Fronteiras de classes**: são os valores usados para separar as classes, porém sem as lacunas criadas pelos limites da classe. Para determinar o tamanho do intervalo entre os limites, subtraímos o limite superior de uma classe e o limite inferior da classe subsequente e dividimos por dois. Exemplos: 209,5; 210,5; 229,5 
@@ -65,3 +66,7 @@ LI_CL2 - LS_CL1 = (210 - 209)/2 = 0,5
 *Obs*:  devemos ter o cuidado de evitar o erro de tomar como amplitude de classe, a diferença entre os limites inferiores e superiores.
 
 ## Passos para criar uma tabela de frequência
++ decidir o número de classes, recomenda-se no mínimo 5 e no máximo 20;
++ determinar a amplitude de classes, dividindo a amplitude pelo número de classes;
++ escolha como liite inferior da primeira classe, o menor valor observado;
++ some a amplitude da classe ao ponto de partida, obtendo o segundo limite inferior da classe;
