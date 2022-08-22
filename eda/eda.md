@@ -9,6 +9,6 @@
 + Inferência estatística: quando utilizado dados amostrais para fazer inferências
 
 **Características importantes dos dados**  
-+ a natureza ou como os dados sõ distribuídos;  
++ a natureza ou como os dados são distribuídos;  
 + um valor representativo (média, mediana);
 + medida de dispersão ou variância;
