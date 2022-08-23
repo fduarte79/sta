@@ -21,7 +21,7 @@ Relaciona *categorias* (*classes*) de valores e suas respectivas *contagens* (*f
 ## 5 passos para criar uma tabela de frequência
 + decidir o número de classes, recomenda-se no mínimo 5 e no máximo 20;
 + determinar a amplitude de classes, dividindo a amplitude pelo número de classes;
-+ escolha como liite inferior da primeira classe, o menor valor observado;
++ escolha como limite inferior da primeira classe, o menor valor observado;
 + some a amplitude da classe ao ponto de partida, obtendo o segundo limite inferior da classe;
 + relacione  os limites inferiores de classes em uma coluna e os limites superiores em outra;
 Dica: represente cada observação por um pequeno traço na respectiva classe. Os traços facilitarão a contabilização das frequências;  
@@ -59,18 +59,18 @@ Passo 4: adicionar a amplitude da classe (10) no limite inferior;
 Passo 5: limite inferior + amplitude: 210
 
 *Tabela de frequência*
-| Carga axial | Frequência |  
-|:-----------:|:----------:|  
-|  200 ~ 209  | 9          |  
-|  210 ~ 219  | 3          |  
-|  220 ~ 229  | 5          |  
-|  230 ~ 239  | 4          |  
-|  240 ~ 249  | 4          |  
-|  250 ~ 259  | 14         |  
-|  260 ~ 269  | 32         |  
-|  270 ~ 279  | 52         |  
-|  280 ~ 289  | 38         |  
-|  290 ~ 299  | 14         |  
+| Classe| Carga axial | Frequência |  
+|:-----:|:-----------:|:----------:|  
+|  1º   |  200 ~ 209  | 9          |  
+|  2º   |  210 ~ 219  | 3          |  
+|  3º   |  220 ~ 229  | 5          |  
+|  4º   |  230 ~ 239  | 4          |  
+|  5º   |  240 ~ 249  | 4          |  
+|  6º   |  250 ~ 259  | 14         |  
+|  7º   |  260 ~ 269  | 32         |  
+|  8º   |  270 ~ 279  | 52         |  
+|  9º   |  280 ~ 289  | 38         |  
+| 10º   |  290 ~ 299  | 14         |  
 
 **2. Tabela de carga axial de latas de 0,0111 cm**  
 
@@ -95,27 +95,28 @@ Passo 5: limite inferior + amplitude: 210
 |247|279|303|286|287|287|275|243|274|299|
 |291|281|303|269|284|   |   |   |   |   |
 
-Passo 1: determinando o número de classes: 15 (valor entre 5 e 20);  
-Passo 2: 504 - 210 = 291. Truncando p cima, chegamos a 300. 300 (amplitude) / 15 (classes) = 20 amplitude da classe ;  
-Passo 3: o menor valor observado é 210 logo, este será o primeiro valor;
+Passo 1: determinando o número de classes: 20 (valor entre 5 e 20);  
+Passo 2: 504 - 205 = 299. Truncando p cima, chegamos a 300. 300 (amplitude) / 15 (classes) = 20 amplitude da classe ;  
+Passo 3: o menor valor observado é 205 logo, este será o primeiro valor;
 Passo 4: adicionar a amplitude da classe (20) no limite inferior;
 Passo 5: limite inferior + amplitude: 230 (2º classe)  
 
 *Tabela de frequência*
 |Classe| Carga axial | Frequência |  
 |:----:|:-----------:|:----------:|  
-|  1º  |  210 ~ 229  | 0          |  
-|  2º  |  230 ~ 249  | 0          |  
-|  3º  |  250 ~ 269  | 0          |  
-|  4º  |  270 ~ 289  | 0          |  
-|  5º  |  290 ~ 309  | 0          |  
-|  6º  |  310 ~ 329  | 0          |  
-|  7º  |  330 ~ 349  | 0          |  
-|  8º  |  350 ~ 369  | 0          |  
-|  9º  |  370 ~ 389  | 0          |  
-| 10º  |  390 ~ 409  | 0          |  
-| 11º  |  410 ~ 429  | 0          |  
-| 12º  |  430 ~ 449  | 0          |  
-| 13º  |  450 ~ 469  | 0          |  
-| 14º  |  470 ~ 489  | 0          |  
-| 15º  |  490 ~ 509  | 0          |  
+|  1º  |  205 ~ 224  | 7          |  
+|  2º  |  225 ~ 244  | 6          |  
+|  3º  |  245 ~ 264  | 17         |  
+|  4º  |  265 ~ 284  | 52         |  
+|  5º  |  285 ~ 304  | 77         |  
+|  6º  |  305 ~ 324  | 15         |  
+|  7º  |  325 ~ 344  | 0          |  
+|  8º  |  345 ~ 364  | 0          |  
+|  9º  |  365 ~ 384  | 0          |  
+| 10º  |  385 ~ 404  | 0          |  
+| 11º  |  405 ~ 424  | 0          |  
+| 12º  |  425 ~ 444  | 0          |  
+| 13º  |  445 ~ 464  | 0          |  
+| 14º  |  465 ~ 484  | 0          |  
+| 15º  |  485 ~ 504  | 0          |  
+| 16º  |  505 ~ 524  | 1          |  
