@@ -53,7 +53,7 @@ Dica: represente cada observação por um pequeno traço na respectiva classe. O
 |262|293|290|274|292|   |   |   |   |   |  
 
 Passo 1: determinando o número de classes: 10;  
-Passo 2: 297 - 200 = 97. Truncando p cima, chegamos a 100. 100 (amplitude) / 10 = 10 classes  ;  
+Passo 2: 297 - 200 = 97. Truncando p cima, chegamos a 100. 100 (amplitude) / 10 (classe) = 10 amplitude da classe  ;  
 Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;  
 Passo 4: adicionar a amplitude da classe (10) no limite inferior;  
 Passo 5: limite inferior + amplitude: 210
@@ -95,22 +95,27 @@ Passo 5: limite inferior + amplitude: 210
 |247|279|303|286|287|287|275|243|274|299|
 |291|281|303|269|284|   |   |   |   |   |
 
+Passo 1: determinando o número de classes: 15 (valor entre 5 e 20);
+Passo 2: 504 - 210 = 291. Truncando p cima, chegamos a 300. 300 (amplitude) / 15 (classes) = 20 amplitude da classe ;
+Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;
+Passo 4: adicionar a amplitude da classe (10) no limite inferior;
+Passo 5: limite inferior + amplitude: 210
+
 *Tabela de frequência*
-| Carga axial | Frequência |  
-|:-----------:|:----------:|  
-|  200 ~ 219  | 6          |  
-|  220 ~ 239  | 5          |  
-|  240 ~ 259  | 12         |  
-|  260 ~ 279  | 34         |  
-|  280 ~ 299  | 89         |  
-|  300 ~ 319  | 28         |  
-|  320 ~ 339  | 0          |  
-|  340 ~ 359  | 0          |  
-|  360 ~ 379  | 0          |  
-|  380 ~ 399  | 0          |  
-|  400 ~ 419  | 0          |  
-|  420 ~ 439  | 0          |  
-|  440 ~ 459  | 0          |  
-|  460 ~ 479  | 0          |  
-|  480 ~ 499  | 0          |  
-|  500 ~ 519  | 1          |  
+|Classe| Carga axial | Frequência |  
+|:----:|:-----------:|:----------:|  
+|  1º  |  210 ~ 229  | 0          |  
+|  2º  |  230 ~ 249  | 0          |  
+|  3º  |  250 ~ 269  | 0          |  
+|  4º  |  270 ~ 289  | 0          |  
+|  5º  |  290 ~ 309  | 0          |  
+|  6º  |  310 ~ 329  | 0          |  
+|  7º  |  330 ~ 349  | 0          |  
+|  8º  |  350 ~ 369  | 0          |  
+|  9º  |  370 ~ 389  | 0          |  
+| 10º  |  390 ~ 409  | 0          |  
+| 11º  |  410 ~ 429  | 0          |  
+| 12º  |  430 ~ 449  | 0          |  
+| 13º  |  450 ~ 469  | 0          |  
+| 14º  |  470 ~ 489  | 0          |  
+| 15º  |  490 ~ 509  | 0          |  
