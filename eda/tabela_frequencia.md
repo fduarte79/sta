@@ -95,11 +95,11 @@ Passo 5: limite inferior + amplitude: 210
 |247|279|303|286|287|287|275|243|274|299|
 |291|281|303|269|284|   |   |   |   |   |
 
-Passo 1: determinando o número de classes: 15 (valor entre 5 e 20);
-Passo 2: 504 - 210 = 291. Truncando p cima, chegamos a 300. 300 (amplitude) / 15 (classes) = 20 amplitude da classe ;
-Passo 3: o menor valor observado é 200 logo, este será o primeiro valor;
-Passo 4: adicionar a amplitude da classe (10) no limite inferior;
-Passo 5: limite inferior + amplitude: 210
+Passo 1: determinando o número de classes: 15 (valor entre 5 e 20);  
+Passo 2: 504 - 210 = 291. Truncando p cima, chegamos a 300. 300 (amplitude) / 15 (classes) = 20 amplitude da classe ;  
+Passo 3: o menor valor observado é 210 logo, este será o primeiro valor;
+Passo 4: adicionar a amplitude da classe (20) no limite inferior;
+Passo 5: limite inferior + amplitude: 230 (2º classe)  
 
 *Tabela de frequência*
 |Classe| Carga axial | Frequência |  
